@@ -10,7 +10,7 @@ from datetime import datetime
 init(autoreset=True)
 
 # === EDIT THIS VARIABLE TO SET YOUR TEST RECIPIENTS ===
-TEST_RECIPIENTS = ["emailbuatus2@gmail.com"]
+TEST_RECIPIENTS = ["youremail@example.com" ,"youranothermail@secondmail.com"]
 
 def clear():
     os.system('cls' if os.name == 'nt' else 'clear')
