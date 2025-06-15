@@ -18,6 +18,7 @@ Installation :
 ## ✨ Features:
 - ✅ **Support Every Hosts**
 - ✅ **Sent email test into Recipients address**(Set your email in the script)
+- ✅ **Usage list.txt/smtp.txt**(smtp.host.com|smtp@username.com|smtppassword)
 - ✅ **Easy to use**
 - ✅ **Auto-save results** to `valid_smtp_dateandtime.txt`
 - ✅ **Lightweight & User-friendly**
@@ -33,7 +34,7 @@ You Want Ask About All My Tools Private Add Me On :
 ```
 # This script is public and not for sale!
 
-*Make sure you have shodan.io API key before using the script
+*All the SMTP List on default PORT 587
 
            This script was made for an educational purposes only, any illegal activites will have nothing to do with me
 
